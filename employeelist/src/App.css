@@ -1,0 +1,32 @@
+.App {
+  border: solid black;
+  display: flex;
+  text-align: center;
+}
+.homePage, .employeePage {
+  width: 45%; 
+  border: solid gray;
+}
+
+.employeeListItem {
+  border: solid red;
+  display: flex;
+  align-items: center;
+  
+}
+
+img {
+  border-radius: 50%;
+  height: 80px;
+  width:80px;
+}
+
+.bold {
+
+  font-weight: bold;
+}
+
+input {
+  width: 98%;
+  height: 40px;
+}
